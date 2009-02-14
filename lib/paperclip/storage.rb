@@ -1,3 +1,5 @@
+require 'paperclip/storage/webdav'
+
 module Paperclip
   module Storage
 
